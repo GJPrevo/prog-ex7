@@ -2,7 +2,7 @@ Package: pkg
 Version: 1.0
 Date: 2014-12-18
 Title: Exercise7
-Author: Myrthe van Dieijen
+Authors: Myrthe van Dieijen, Derck Koolen, Gert Jan Prevo
 Maintainer: Myrthe van Dieijen <vandieijen@ese.eur.nl>
 Description: An R package for adding numbers
 Depends: R (>= 3.1.1)
