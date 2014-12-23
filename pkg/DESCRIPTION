@@ -1,0 +1,11 @@
+Package: pkg
+Version: 1.0
+Date: 2014-12-18
+Title: Exercise7
+Author: Myrthe van Dieijen
+Maintainer: Myrthe van Dieijen <vandieijen@ese.eur.nl>
+Description: An R package for adding numbers
+Depends: R (>= 3.1.1)
+Suggests: testthat (>= 0.9.1)
+License: GPL-3
+URL: http://github.com/myrthevandieijen/Exercise7
